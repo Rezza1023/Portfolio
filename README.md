@@ -1,4 +1,5 @@
-#Santiago Portfolio
+##Santiago Portfolio
+
 Computer Engineer focused on IoT systems, embedded automation, and applied machine learning.
 
 List of Projects:
