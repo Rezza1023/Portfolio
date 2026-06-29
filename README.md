@@ -26,18 +26,4 @@ Computer Engineer focused on IoT systems, embedded automation, and applied machi
 
 **URL:** 
 
-## Skills
-
-- Embedded Systems
-- Internet of Things (IoT)
-- Machine Learning
-- Computer Vision
-- Python
-- C/C++
-- Arduino
-- ESP32
-- Raspberry Pi
-
-## Contact
-
 Feel free to connect for collaborations or professional opportunities.
