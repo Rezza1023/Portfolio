@@ -6,24 +6,24 @@ Computer Engineer focused on IoT systems, embedded automation, and applied machi
 
 ### SmartVendo+
 
-**URL:** 
+**URL:https://github.com/Rezza1023/SmartVendo** 
 
 ### AquaGreenTech
 
-**URL:** 
+**URL:https://github.com/Rezza1023/AquaGreenTech** 
 
 ### AgriDryTech (Published and Scopus-Indexed)
 
-**URL:** 
+**URL:https://github.com/Rezza1023/AgriDryTech** 
 
 ## Small Projects
 
 ### Christmas Lights
 
-**URL:** 
+**URL:https://github.com/Rezza1023/ChristmasLights** 
 
 ### Water Dispenser
 
-**URL:** 
+**URL:https://github.com/Rezza1023/WaterDispenser** 
 
 Feel free to connect for collaborations or professional opportunities.
